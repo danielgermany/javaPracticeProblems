@@ -8,7 +8,7 @@ class CountingTheNumberOfCharacters
       System.out.println("Enter string");
       
       String userString = userInput.nextLine();
-      
+         
       System.out.println("Length of string is: " + userString.length());
      
    }
